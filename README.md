@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PavanAnish
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=python,figma,c++,c,javascript" />
   </a>
 </p>
 <!---
