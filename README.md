@@ -2,7 +2,7 @@
 <p align="center"> @PavanAnish</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,figma,java,c,javascript" />
+    <img src="https://skillicons.dev/icons?i=python,figma,java,c,javascript,mysql" />
   </a>
 </p>
 <!---
