@@ -1,4 +1,4 @@
-<p align="center">👋 Hi There, I’m Pavan </h1>
+<p style="font-size: 20px; text-align: justify;">👋 Hi There, I’m Pavan</p>
 <p align="center"> @PavanAnish</h1>
 <p align="center">
   <a href="https://skillicons.dev">
