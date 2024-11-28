@@ -7,6 +7,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,mysql" />
+    <p align="center"> DONE</h1>
   </a>  
 </p>
 <!---
