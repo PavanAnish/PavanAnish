@@ -1,5 +1,6 @@
 <p style="font-size: 60px; text-align:center;">👋 Hi There, I’m Pavan</p>
-<p style="text-align: center;">@PavanAnish</p>
+ <p align="center">
+        <font size="5">@PavanAnish</font>
 
 <p align="center">
   <a href="https://skillicons.dev">
