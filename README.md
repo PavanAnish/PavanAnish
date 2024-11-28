@@ -1,6 +1,6 @@
 
 </head>
--<h1 align="center">👋 Hi There, I’m Pavan</h1>
+<h1 align="center">👋 Hi There, I’m Pavan</h1>
  <p align="center">
         <font size="7">@PavanAnish</font>
 
