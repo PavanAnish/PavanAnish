@@ -1,4 +1,6 @@
-<p align="center">👋 Hi There, I’m Pavan</p>
+@@ -5 @@
+</head>
+-<h1 align="center">👋 Hi There, I’m Pavan</h1>
  <p align="center">
         <font size="7">@PavanAnish</font>
 
