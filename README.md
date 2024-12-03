@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,figma,java,c,,mysql" />
-  </a> 
+    <img src="https://skillicons.dev/icons?i=python,figma,java,c,mysql" />
+  </a>
 </p>
 <!---
 PavanAnish/PavanAnish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
