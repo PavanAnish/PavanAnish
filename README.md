@@ -10,7 +10,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=PAVANBackend+Developer;AI+Learner;Web+Dev+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=PAVAN;Backend+Developer;AI+Learner;Web+Dev+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <!-- Skill Icons -->
