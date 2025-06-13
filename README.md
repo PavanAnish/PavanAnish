@@ -93,3 +93,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PavanAnish&style=for-the-badge&color=blue" alt="visitors"/>
 </p>
+
+![snake gif](https://github.com/PavanAnish/PavanAnish/blob/output/github-snake-dark.svg)
