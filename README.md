@@ -7,7 +7,7 @@
 <h1 style="color: #0000FF;">👋 Hi There, I’m Pavan</h1>
 
 <p>
-  <font size="6" color="#007BFF"><b>@PavanAnish</b></font>
+  <font size="6" color="#0000FF"><b>@PavanAnish</b></font>
 </p>
 
 <!-- Skill Icons -->
