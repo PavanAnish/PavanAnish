@@ -10,7 +10,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=Backend+Developer;AI+Learner;Web+Dev+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=PAVANBackend+Developer;AI+Learner;Web+Dev+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <!-- Skill Icons -->
@@ -57,6 +57,14 @@
 
 ---
 
+
+
+<!-- Snake Animation -->
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/PavanAnish/PavanAnish/blob/output/github-snake-dark.svg)
+
+---
 <!-- Contribution Graph -->
 ## 📊 Contribution Graph
 
@@ -65,16 +73,6 @@
 </p>
 
 ---
-
-<!-- Snake Animation -->
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PavanAnish/PavanAnish/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <!-- Connect Section -->
 ## 🔗 Let's Connect
 
@@ -94,4 +92,4 @@
   <img src="https://komarev.com/ghpvc/?username=PavanAnish&style=for-the-badge&color=blue" alt="visitors"/>
 </p>
 
-![snake gif](https://github.com/PavanAnish/PavanAnish/blob/output/github-snake-dark.svg)
+
