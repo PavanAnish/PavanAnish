@@ -56,8 +56,9 @@
   <a href="https://pavananish.github.io/Portfolio1/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/PavanAnish/count.svg" />
+  <img src="https://moe-counter.journey-ad.repl.co/get/@PavanAnish?theme=rule34" />
 </p>
+
 
 
 
