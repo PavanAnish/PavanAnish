@@ -15,13 +15,11 @@
 </p>
 
 <p align="center">
-  <a href="https://pavananish.github.io/Portfolio1/" 
-     style="color: #007BFF; text-decoration: none; font-weight: bold;" 
-     onmouseover="this.style.color='#FF5733'" 
-     onmouseout="this.style.color='#007BFF'">
+  <a href="https://pavananish.github.io/Portfolio1/" style="color: #007BFF; text-decoration: none; font-weight: bold;">
     PROFILE
   </a>
 </p>
+
 
 <!---
 PavanAnish/PavanAnish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
