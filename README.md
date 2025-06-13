@@ -82,11 +82,6 @@
   <a href="https://pavananish.github.io/Portfolio1/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<!-- Moe Counter with your own vercel host -->
-<p align="center">
-  <img src="https://moe-counter-dusky.vercel.app/get/@PavanAnish?theme=rule34" />
-</p>
-
 <!-- Visitors Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PavanAnish&style=for-the-badge&color=blue" alt="visitors"/>
