@@ -36,20 +36,60 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  
+
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanAnish&show_icons=true&theme=codeSTACKr&hide_border=true" alt="Pavan's GitHub Stats"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PavanAnish&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PavanAnish&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="180" alt="languages graph"  />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanAnish&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
-  
-  <p align="center">
+</div>
+
+---
+
+<!-- About Me Section -->
+## 📌 About Me
+
+- 🎓 B.Tech CSE AI Student  
+- 🛠️ Passionate about **Backend Development, AI & Full-Stack Web**  
+- 🌱 Continuously learning **AI, ML, Data Science & Cloud**  
+- 🎯 Always curious to build new things, solve problems and collaborate.
+
+---
+
+<!-- Contribution Graph -->
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavanAnish&theme=react-dark&area=true&hide_border=true"/>
+</p>
+
+---
+
+<!-- Snake Animation -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PavanAnish/PavanAnish/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- Connect Section -->
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="mailto:pavananish47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pavan-v-anish-7ba7b1320/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://pavananish.github.io/Portfolio1/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<!-- Moe Counter with your own vercel host -->
+<p align="center">
   <img src="https://moe-counter-dusky.vercel.app/get/@PavanAnish?theme=rule34" />
 </p>
 
-
-
-
-
-<!---
-PavanAnish/PavanAnish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->  
+<!-- Visitors Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PavanAnish&style=for-the-badge&color=blue" alt="visitors"/>
+</p>
