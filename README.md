@@ -37,7 +37,7 @@
 <!-- GitHub Stats -->
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PavanAnish&show_icons=true&theme=codeSTACKr&hide_border=true" alt="Pavan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanAnish&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PavanAnish&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
 
