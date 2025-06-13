@@ -11,7 +11,7 @@
   </a>
 </p>
  <p align="CENTER">
- <a href="PROFILE:">https://pavananish.github.io/Portfolio1/</a>
+ <a href="https://pavananish.github.io/Portfolio1/">PROFILE:/</a>
 </p>
 <!---
 PavanAnish/PavanAnish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
