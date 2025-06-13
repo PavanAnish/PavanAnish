@@ -41,7 +41,10 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanAnish&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
   
-  <img src="https:/
+  <p align="center">
+  <img src="https://moe-counter-dusky.vercel.app/get/@PavanAnish?theme=rule34" />
+</p>
+
 
 
 
