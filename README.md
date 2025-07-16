@@ -44,7 +44,7 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PavanAnish&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PavanAnish&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PavanAnish&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="180" alt="languages graph"  />
 
 </div>
 
