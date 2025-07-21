@@ -33,6 +33,12 @@
 </div>
 
 ---
+## 📌 About Me
+
+- 🎓 B.Tech CSE AI Student  
+- 🛠️ Passionate about **Backend Development, AI & Full-Stack Web**  
+- 🌱 Continuously learning **AI, ML, Data Science & Cloud**  
+- 🎯 Always curious to build new things, solve problems and collaborate
 #
 
 # 💻 Tech Stack:
@@ -50,63 +56,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
-## 🛠️ Technology Arsenal
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-        <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-        <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-        <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-        <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-        <br>Nginx
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-        <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-        <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-        <br>REST API
-    </td>
-  </tr>
-</table>
-
 <!-- About Me Section -->
-## 📌 About Me
-
-- 🎓 B.Tech CSE AI Student  
-- 🛠️ Passionate about **Backend Development, AI & Full-Stack Web**  
-- 🌱 Continuously learning **AI, ML, Data Science & Cloud**  
-- 🎯 Always curious to build new things, solve problems and collaborate.
-
+.
 ---
 
 
