@@ -40,6 +40,16 @@
 - 🌱 Continuously learning **AI, ML, Data Science & Cloud**  
 - 🎯 Always curious to build new things, solve problems and collaborate
 #
+/*
+Source - https://stackoverflow.com/q
+Posted by user17458330, modified by community. See post 'Timeline' for change history
+Retrieved 2025-12-26, License - CC BY-SA 4.0
+*/
+
+
+![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=radical)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=radical&layout=compact)
+
 
 # 💻 Tech Stack:
 
