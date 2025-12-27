@@ -40,11 +40,8 @@
 - 🌱 Continuously learning **AI, ML, Data Science & Cloud**  
 - 🎯 Always curious to build new things, solve problems and collaborate
 #
-/*
-Source - https://stackoverflow.com/q
-Posted by user17458330, modified by community. See post 'Timeline' for change history
-Retrieved 2025-12-26, License - CC BY-SA 4.0
-*/
+
+
 
 
 # 💻 Tech Stack:
@@ -86,6 +83,7 @@ Retrieved 2025-12-26, License - CC BY-SA 4.0
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PavanAnish&style=for-the-badge&color=blue" alt="visitors"/>
 </p>
+
 
 
 
