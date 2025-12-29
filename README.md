@@ -82,8 +82,9 @@
 <!-- Visitors Counter -->
 <p align="center">
  <!-- <img src="https://komarev.com/ghpvc/?username=PavanAnish&style=for-the-badge&color=blue" alt="visitors"/> -->
-  <img alt="Profile Hits" src="https://count.getloli.com/@Pavan V Anish?name=Pavan+V+Anish&theme=original-new&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+  <img alt="Profile Hits" src="https://count.getloli.com/@Pavan V Anish?name=Pavan+V+Anish&theme=rule34&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto">
 </p>
+
 
 
 
