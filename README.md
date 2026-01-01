@@ -48,11 +48,8 @@
 </div>
 
 
-
-# Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=pavananish&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 <!-- graph stats-->
+
 ![](https://github-readme-stats.vercel.app/api?username=pavananish&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pavananish&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavananish&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -84,6 +81,7 @@
  <!-- <img src="https://komarev.com/ghpvc/?username=PavanAnish&style=for-the-badge&color=blue" alt="visitors"/> -->
   <img alt="Profile Hits" src="https://count.getloli.com/@Pavan V Anish?name=Pavan+V+Anish&theme=rule34&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto">
 </p>
+
 
 
 
