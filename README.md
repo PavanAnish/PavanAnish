@@ -11,7 +11,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=PAVAN;Backend+Developer; Automation;AI+Learner;Web+Dev+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=PAVAN;Backend+Developer;Automation;AI+Learner;Web+Dev+Explorer" alt="Typing SVG" />
 </p>
 
 <!-- Skill Icons -->
@@ -82,6 +82,7 @@
  <!-- <img src="https://komarev.com/ghpvc/?username=PavanAnish&style=for-the-badge&color=blue" alt="visitors"/> -->
   <img alt="Profile Hits" src="https://count.getloli.com/@Pavan V Anish?name=Pavan+V+Anish&theme=rule34&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto">
 </p>
+
 
 
 
