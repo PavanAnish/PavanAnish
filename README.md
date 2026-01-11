@@ -67,7 +67,7 @@
 <p align="center">
   <a href="mailto:pavananish47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/pavan-v-anish-7ba7b1320/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://pavananish.github.io/Portfolio1/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://portfolio-ten-pied-53.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <!-- Visitors Counter -->
@@ -75,6 +75,7 @@
  <!-- <img src="https://komarev.com/ghpvc/?username=PavanAnish&style=for-the-badge&color=blue" alt="visitors"/> -->
   <img alt="Profile Hits" src="https://count.getloli.com/@Pavan V Anish?name=Pavan+V+Anish&theme=rule34&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto">
 </p>
+
 
 
 
