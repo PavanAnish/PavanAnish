@@ -3,7 +3,8 @@
 <div align="center" style="padding: 20px; background-color: #f5f5f5; border-radius: 15px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
 
 <h1 style="color: #FF5733;">👋 <span style="color:#007BFF;">Hi There, I’m <b>Pavan</b></span></h1>
-
+
+
 <p>
   <font size="6" color="#007BFF"><b>@PavanAnish</b></font>
 </p>
@@ -22,7 +23,7 @@
 
 <!-- Profile Website -->
 
-<h3><b>Visit my Portfolio</b> <a href="https://portfolio-ten-pied-53.vercel.app/">Pavan </a></h3>
+<h3><b>Visit my Portfolio</b> <a href="https://pavananish.github.io/">Pavan </a></h3>
 </div>
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
  📌 About Me
@@ -74,6 +75,7 @@
  <!-- <img src="https://komarev.com/ghpvc/?username=PavanAnish&style=for-the-badge&color=blue" alt="visitors"/> -->
   <img alt="Profile Hits" src="https://count.getloli.com/@Pavan V Anish?name=Pavan+V+Anish&theme=rule34&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto">
 </p>
+
 
 
 
