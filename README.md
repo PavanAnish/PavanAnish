@@ -11,7 +11,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=PAVAN;Backend+Developer;Automation;AI+Learner;Web+Dev+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=PAVAN;Backend+Developer;Automation;DevOps+Engineer;Web+Dev+Explorer" alt="Typing SVG" />
 </p>
 
 <!-- Skill Icons -->
@@ -29,7 +29,7 @@
  📌 About Me
 
 -  B.Tech CSE  Student  
--  Passionate about **Backend Development, AI & Full-Stack Web**  
+-  Passionate about **Backend Development,DevOps & Web Development**  
 -  Continuously learning **AI, ML, Data Science & Cloud**  
 -  Always curious to build new things, solve problems and collaborate
 
