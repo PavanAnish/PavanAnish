@@ -10,20 +10,22 @@
 </td>
 <td valign="top">
 
-<code><b>pavan@github</b> ------------------------</code>
-<code><font color="#79c0ff"><b>OS</b></font>: .................. macOS, Windows 11</code>
+<code><b>pavananish@github</b> ------------------------</code>
+<code><font color="#79c0ff"><b>OS</b></font>: .................. macOS</code>
 <code><font color="#79c0ff"><b>Host</b></font>: ................ PavanAnish/PavanAnish</code>
 <code><font color="#79c0ff"><b>Kernel</b></font>: .............. React + TypeScript</code>
 <code><font color="#79c0ff"><b>IDE</b></font>: ................. VS Code</code>
 
-<code><font color="#a5d6ff"><b>Languages.Programming</b></font>: . JavaScript, TypeScript, Python, Java, C</code>
-<code><font color="#a5d6ff"><b>Interests</b></font>: ........... Cloud Computing, DevOps, Frontend</code>
-<code><font color="#a5d6ff"><b>Hobbies</b></font>: ............. Building UI, Exploring Docker/Terraform</code>
+<code><font color="#a5d6ff"><b>Frontend</b></font>: ............. React, Next.js, Tailwind CSS</code>
+<code><font color="#a5d6ff"><b>Backend</b></font>: .............. Node.js, Express, REST APIs</code>
+<code><font color="#a5d6ff"><b>Automation</b></font>: ........... n8n, AI Agents, LLM Workflow </code>
+<code><font color="#a5d6ff"><b>Cloud</b></font>: ................ Docker, Terraform, AWS</code>
+<code><font color="#a5d6ff"><b>Databases</b></font>: ............ PostgreSQL, MySQL, MongoDB</code>
 
-<code><b>- Contact</b> ---------------------</code>
-<code><font color="#7ee787"><b>Email</b></font>: ............... pavananish47@gmail.com</code>
-<code><font color="#7ee787"><b>LinkedIn</b></font>: ............ pavan-v-anish</code>
-<code><font color="#7ee787"><b>Portfolio</b></font>: ........... pavananish.github.io</code>
+<code><b>Contact</b> ---------------------</code>
+<font color="#7ee787"><b>OutLook</b></font>: ............<a href="mailto:pavanvanish@outlook.com">pavanvanish@outlook.com</a>
+<font color="#7ee787"><b>Portfolio</b></font>: ............<a href="https://pavananish.github.io" target="_blank">pavanvanish<a/>
+<font color="#7ee787"><b>Linekedin</b></font>: ...........<a href="https://linkedin.com/in/pavan-v-anish" target="_blank">linkedin.com/in/pavan-v-anish</a>
 
 </td>
 </tr>
