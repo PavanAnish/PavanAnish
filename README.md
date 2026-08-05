@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <pre style="background:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px; font-family: 'Fira Code', monospace; text-align:left; display:inline-block;">
@@ -5,7 +6,7 @@
 <td valign="top" width="260">
 
 <!-- Replace this with your own meme gif link from giphy.com -->
-<img src="https://media3.giphy.com/media/jzHFPlw89eTqU/giphy.gif" width="240">
+<img src="https://github.com/user-attachments/assets/2b0fdf8b-d78c-473c-b2cb-5869c6a9cbc5" width="240" />
 
 </td>
 <td valign="top">
