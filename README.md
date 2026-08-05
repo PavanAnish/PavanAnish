@@ -2,11 +2,10 @@
 
 <pre style="background:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px; font-family: 'Fira Code', monospace; text-align:left; display:inline-block;">
 <table>
-<tr>
 <td valign="top" width="260">
 
 <!-- Replace this with your own meme gif link from giphy.com -->
-<img src="https://media.giphy.com/media/YOUR-MEME-ID/giphy.gif" width="240">
+<img src="https://media3.giphy.com/media/jzHFPlw89eTqU/giphy.gif" width="240">
 
 </td>
 <td valign="top">
