@@ -40,6 +40,6 @@
 
 <div align="center">
 
-<img alt="Profile views" src="https://count.getloli.com/@Pavan V Anish?name=Pavan+V+Anish&theme=rule34&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto">
+<!-- <img alt="Profile views" src="https://count.getloli.com/@Pavan V Anish?name=Pavan+V+Anish&theme=rule34&padding=6&offset=0&align=top&scale=2&pixelated=1&darkmode=auto">
 
-</div>
+</div> --!>
