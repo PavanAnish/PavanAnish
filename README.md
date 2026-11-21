@@ -25,7 +25,7 @@
 
 <code><b>Contact</b> ---------------------</code>
 <font color="#7ee787"><b>OutLook</b></font>: ............<a href="mailto:pavanvanish@outlook.com">pavanvanish@outlook.com</a>
-<font color="#7ee787"><b>Portfolio</b></font>: ............<a href="https://pavananish.github.io" target="_blank">pavanvanish<a/>
+<font color="#7ee787"><b>Portfolio</b></font>: ............<a href="https://www.pavanvanish.vip/" target="_blank">pavanvanish.vip<a/>
 <font color="#7ee787"><b>Linekedin</b></font>: ...........<a href="https://linkedin.com/in/pavan-v-anish" target="_blank">linkedin.com/in/pavan-v-anish</a>
 
 </td>
